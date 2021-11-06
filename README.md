@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magdalarmet
+- 👋 Hi, I’m @madina_afrolicious
 - 👀 I’m interested in front-end development & UI/UX design
 - 🌱 I’m currently learning html, CSS & javascript
 - 💞️ I’m looking to collaborate on design projects, website coding projects...
