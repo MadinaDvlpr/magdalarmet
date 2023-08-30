@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @madina_afrolicious
-- 👀 I’m interested in front-end development & UI/UX design
-- 🌱 I’m currently learning html, CSS & javascript
-- 💞️ I’m looking to collaborate on design projects, website coding projects...
-- 📫 How to reach me : on Github or on social media --> @madina_afrolicious
+- 👋 Hi, I’m @magdalena
+- 👀 I’m interested in Salesforce development & Fullstack development
+- 🌱 I’m currently learning Apex, Java & javascript
+- 💞️ I’m looking to collaborate on Salesforce projects, application projects...
+- 📫 How to reach me : on Github or on Linkedin --> @magdalena larmet
 
 <!---
 magdalarmet/magdalarmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
